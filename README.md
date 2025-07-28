@@ -70,7 +70,7 @@ Here you'll find a collection of projects showcasing my skills in **SQL, Python,
 
 
 
-> ⭐ Star this repository if you find it useful, and feel free to connect or fork for collaboration!
+
 
 
 
@@ -103,5 +103,8 @@ Here you'll find a collection of projects showcasing my skills in **SQL, Python,
 ![Dashboard](visuals/excel/Solver.png)
 
 ![Dashboard](visuals/excel/ScenarioManager.png)
+
+
+> ⭐ Star this repository if you find it useful, and feel free to connect or fork for collaboration!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
