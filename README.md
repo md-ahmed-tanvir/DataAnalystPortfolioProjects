@@ -1,9 +1,10 @@
-
 ## 🔗 Connect With Me
 
 👤 **Md. Tanvir Ahmed**  
-📎 [LinkedIn](https://www.linkedin.com/in/mdtanvirahmeddev/)
+📎 [LinkedIn](https://www.linkedin.com/in/mdtanvirahmeddev/)  
+📊 [Tableau Public Portfolio](https://public.tableau.com/app/profile/md.tanvir.ahmed8315/vizzes)
 
+---
 
 # 📊 Data Analyst Portfolio Projects
 
@@ -66,45 +67,34 @@ Here you'll find a collection of projects showcasing my skills in **SQL, Python,
 - 📈 [Scenario Manager & Solver (Data Modeling)](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Excel%20-%20Scenario%20Manager%2C%20Solver%20(Data%20Modeling).xlsx)  
   Business decision-making using Solver and Scenario Manager.
 
+📎 **Note:** *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 
+#### 🔍 Visual Highlights
 
+- **Sales Superstore Sample** – *Sales Performance Dashboard*  
+  ![Dashboard](visuals/excel/Dashboards.png)
 
+- **NetTRON Infrastructure Data** – *LOOKUP, INDEX, MATCH, SUMIFS*  
+  ![Dashboard](visuals/excel/INDEX.png)  
+  ![Dashboard](visuals/excel/LOOKUP.png)
 
+- **Shipping Data** – *Pivot Tables, Pivot Chart, Slicers*  
+  ![Dashboard](visuals/excel/PivotReports.png)
 
+- **Project Costing Model** – *Scenario Manager & Solver (Data Modeling)*  
+  ![Dashboard](visuals/excel/DataModeling.png)  
+  ![Dashboard](visuals/excel/Solver.png)  
+  ![Dashboard](visuals/excel/ScenarioManager.png)
 
+---
 
+### 📊 Tableau Visualizations
 
-- [x] **Excel** - 
+Explore my interactive Tableau dashboards and visual stories:
 
-*Kindly download these Excel files from this repository and view them in Microsoft Excel.*
+🔗 **[View Tableau Public Portfolio](https://public.tableau.com/app/profile/md.tanvir.ahmed8315/vizzes)**  
+Topics include sales dashboards, app analytics, geographic insights, and more.
 
+---
 
-- Sales Superstore Sample: Sales Performance Dashboard <br />
-
-![Dashboard](visuals/excel/Dashboards.png)
-
-
-- NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS <br />
-
-![Dashboard](visuals/excel/INDEX.png)
-
-![Dashboard](visuals/excel/LOOKUP.png)
-
-
-- Shipping Data: Pivot Tables, Pivot Chart, Slicers <br />
-
-![Dashboard](visuals/excel/PivotReports.png)
-
-
-- Project Costing Model Data: Scenario Manager, Solver (Data Modeling)
-
-![Dashboard](visuals/excel/DataModeling.png)
-
-![Dashboard](visuals/excel/Solver.png)
-
-![Dashboard](visuals/excel/ScenarioManager.png)
-
-
-> ⭐ Star this repository if you find it useful, and feel free to connect or fork for collaboration!
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> ⭐ *Star this repository if you find it useful, and feel free to connect or fork for collaboration!*
