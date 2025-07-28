@@ -1,6 +1,6 @@
 # Portfolio Projects
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can also take a look at my Linkedin : [Md. Tanvir Ahmed]([https://www.linkedin.com/in/priyankajhatheanalyst/](https://www.linkedin.com/in/mdtanvirahmeddev/))* <br />
+#### *You can also take a look at my Linkedin : [Md. Tanvir Ahmed] (https://www.linkedin.com/in/mdtanvirahmeddev/)* <br />
 
 
 
