@@ -1,95 +1,76 @@
-# Portfolio Projects
-## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can also take a look at my Linkedin : [LinkedIn Profile](https://www.linkedin.com/in/mdtanvirahmeddev/)* <br />
+
+## 🔗 Connect With Me
+
+👤 **Md. Tanvir Ahmed**  
+📎 [LinkedIn](https://www.linkedin.com/in/mdtanvirahmeddev/)
+
+
+# 📊 Data Analyst Portfolio Projects
+
+Welcome to my Data Analyst portfolio repository!  
+Here you'll find a collection of projects showcasing my skills in **SQL, Python, Excel, and Data Visualization**.
+
+---
+
+## 🔧 Tools & Technologies
+
+- **SQL** (PostgreSQL, HiveQL)
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **Excel** (Advanced Functions, Dashboards, Solver)
+- **Tableau** (Dashboards & Interactive Visualizations)
+
+---
+
+## 📁 Project Categories
+
+### 📌 SQL Projects
+
+- 🧹 [SQL - Data Cleaning](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)  
+  Cleaning and preparing raw data using SQL queries.
+
+- 🔍 [SQL - Data Exploration](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)  
+  Exploratory analysis using filtering, joins, and aggregations.
+
+- 📷 [Instagram Clone – Schema & Insertion](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)  
+  Simulated database schema design and data insertion.
+
+- 📈 [Instagram Clone – EDA](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)  
+  User insights and performance analytics with SQL.
+
+- 🚕 [NYC Yellow Taxi Case Study – HiveQL](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)  
+  Big data analysis using Hive on Hadoop.
+
+- 🐘 [PostgreSQL BI Challenge](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/PostgreSQL-BI-CHALLENGE)  
+  Business intelligence use case using PostgreSQL (file/directory-based project).
+
+---
+
+### 🐍 Python Projects
+
+- 🎬 [Movie Industry EDA](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Python%20-%20Movie%20Industry%20EDA%20Project.ipynb)  
+  In-depth exploration of the movie industry using Pandas, Seaborn, and Matplotlib.
+
+---
+
+### 📊 Excel Projects
+
+- 📈 [Sales Performance Dashboard](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Excel%20-%20Sales%20Performance%20Dashboard.xlsx)  
+  Interactive dashboard with slicers and charts for executive-level insights.
+
+- 📌 [Lookup, Index, Match, SumIFS](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Excel%20-%20LOOKUP%2C%20INDEX%2C%20MATCH%2C%20SUMIFS.xlsx)  
+  Advanced Excel functions used for dynamic data retrieval and analysis.
+
+- 📊 [Pivot Tables, Pivot Chart, Slicers](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Excel%20-%20Pivot%20Tables%2C%20Pivot%20Chart%2C%20Slicers.xlsx)  
+  Data summarization and filtering with pivot tools.
+
+- 📈 [Scenario Manager & Solver (Data Modeling)](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects/blob/main/Excel%20-%20Scenario%20Manager%2C%20Solver%20(Data%20Modeling).xlsx)  
+  Business decision-making using Solver and Scenario Manager.
 
 
 
-- [x] **SQL & Tableau** - 
-  - Instagram Clone Data Analysis Project<br />
-*See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/md.tanvir.ahmed8315/viz/InstagramCloneDataAnalysisProject/InstagramCloneDataAnalysisDashboard)**<br />
-
-![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
 
-
-- [x] **Hadoop (Hive)** - 
-  - NYC Yellow Taxi Records: Data Analysis <br />
-*Review the HiveQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
-
-
-
-- [x] **SQL** - 
-  - Nashville Housing Dataset: Data Cleaning <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
-
-  - COVID-19 Dataset: Data Exploration  <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
-
-
-
-- [x] **PostgreSQL** - 
-  - Business Intelligence Challenge <br />
-*Review the PostgreSQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
-*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1JIDnsaLXAx2qnWM86yfrRKLWF5B_ofHU/view?usp=sharing)**<br />
-
-
-
-- [x] **Python** - 
-  - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
-
-
-
-- [x] **Tableau** - 
-
-*To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
-
-
-![MakeoverMonday](visuals/WorkFromHome.png)  
-
-
-![Municipality Data Analysis](visuals/MunicipalityDataAnalysisDashboard.png)  
-
-
-![GROVER Junior Data Analyst](visuals/GroverDataAnalystDashboard.png)  
-
-
-
-![Retail Price Analytics](visuals/RetailPricingAnalytics.png)
-
-
-
-![E-commerce Sales](visuals/E-commerceRetail.png)
-
-
-      
-      1 KPI Dashboard
-
-![KPI Dashboard](visuals/KPIDashboard.png)
-
-      2 Top-Down Dashboard
-      
-![Top Down Dashboard](visuals/TopDownDashboard.png)
-
-      3 Q&A Dashboard
-      
-![Q&A Dashboard](visuals/Q&ADashboard.png)
-
-      4 Bottom-Up Dashboard
-      
-![Bottom Up Dashboard](visuals/BottomUpDashboard.png)
-
-      5 Geo Chart
-      
-![Geo Chart](visuals/GeoChart.png)
-
-
-
-![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
-
-
-
-![London Bus Safety](visuals/LondonBusSafety.png)
+> ⭐ Star this repository if you find it useful, and feel free to connect or fork for collaboration!
 
 
 
