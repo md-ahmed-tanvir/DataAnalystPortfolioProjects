@@ -1,14 +1,12 @@
 # Portfolio Projects
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can also take a look at my Linkedin : [Md. Tanvir Ahmed] (https://www.linkedin.com/in/mdtanvirahmeddev/)* <br />
+#### *You can also take a look at my Linkedin : [LinkedIn Profile](https://www.linkedin.com/in/mdtanvirahmeddev/)* <br />
 
 
 
 - [x] **SQL & Tableau** - 
   - Instagram Clone Data Analysis Project<br />
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/md.tanvir.ahmed8315/viz/InstagramCloneDataAnalysisProject/InstagramCloneDataAnalysisDashboard)**<br />
-*Review the Data Insertion SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
-*Review the Data Exploration SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
 ![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
@@ -46,30 +44,24 @@
 
 *To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
 
-- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/app/profile/md.tanvir.ahmed8315/viz/MakeoverMonday2020Week32BenefitsofWorkingfromHome_17536943557250/WORKFROMHOME
 
 ![MakeoverMonday](visuals/WorkFromHome.png)  
 
-- Municipality Data Analysis Dashboard: https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ![Municipality Data Analysis](visuals/MunicipalityDataAnalysisDashboard.png)  
 
-- GROVER Junior Data Analyst Case Study Dashboard: https://public.tableau.com/views/GROVERJuniorDataAnalystCaseStudy/GroverDataAnalystDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ![GROVER Junior Data Analyst](visuals/GroverDataAnalystDashboard.png)  
 
 
-- Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
 
 ![Retail Price Analytics](visuals/RetailPricingAnalytics.png)
 
 
-- E-commerce Sales Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
 
 ![E-commerce Sales](visuals/E-commerceRetail.png)
 
 
-- Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard 
       
       1 KPI Dashboard
 
@@ -93,12 +85,9 @@
 
 
 
-- World Bank CO2 Emissions Dashboard: https://public.tableau.com/views/WorldBankCo2Emissions_16149182681650/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link 
-
 ![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
 
 
-- London Bus Safety Dashboard: https://public.tableau.com/views/TableauCertificationCourse2/ChartsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link 
 
 ![London Bus Safety](visuals/LondonBusSafety.png)
 
