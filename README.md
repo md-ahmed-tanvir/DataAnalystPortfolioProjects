@@ -98,3 +98,22 @@ Topics include sales dashboards, app analytics, geographic insights, and more.
 ---
 
 > ⭐ *Star this repository if you find it useful, and feel free to connect or fork for collaboration!*
+
+
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
