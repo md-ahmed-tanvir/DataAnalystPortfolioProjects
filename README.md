@@ -93,6 +93,12 @@ Here you'll find a collection of projects showcasing my skills in **SQL, Python,
 Explore my interactive **Tableau dashboards** and **data storytelling projects**, designed to deliver clear insights through compelling visuals.
 
 ![Tableau Dashboards Preview](image.png)
+![Dashboard 1](616814224_886779697272914_776646513288089413_n.jpg)
+![Dashboard 2](555463574_799115816039303_8045699734962362687_n.jpg)
+![Dashboard 2](616605135_891110940173123_8134589040844739110_n.jpg)
+![Dashboard 2](image2.png)
+![Dashboard 3](620094104_1941593420571249_542612984187394753_n.png)
+
 
 🔗 **[View Tableau Public Portfolio](https://public.tableau.com/app/profile/md.tanvir.ahmed8315/vizzes)**
 
