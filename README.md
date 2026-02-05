@@ -88,12 +88,21 @@ Here you'll find a collection of projects showcasing my skills in **SQL, Python,
 
 ---
 
-### 📊 Tableau Visualizations
+## 📊 Power BI & Tableau Visualizations
 
-Explore my interactive Tableau dashboards and visual stories:
+Explore my interactive **Tableau dashboards** and **data storytelling projects**, designed to deliver clear insights through compelling visuals.
 
-🔗 **[View Tableau Public Portfolio](https://public.tableau.com/app/profile/md.tanvir.ahmed8315/vizzes)**  
-Topics include sales dashboards, app analytics, geographic insights, and more.
+![Tableau Dashboards Preview](image.png)
+
+🔗 **[View Tableau Public Portfolio](https://public.tableau.com/app/profile/md.tanvir.ahmed8315/vizzes)**
+
+### 🔍 What you’ll find:
+- 📈 Sales Performance Dashboards  
+- 📱 App & User Analytics  
+- 🌍 Geographic & Regional Insights  
+- 📊 Interactive Visual Stories  
+
+Each project focuses on transforming raw data into **actionable business insights** using modern visualization best practices.
 
 ---
 
